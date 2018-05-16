@@ -1,0 +1,15 @@
+body {
+    background-color: cornflowerblue;
+    animation-name: spicy;
+    animation-duration: 4s;
+
+}
+head {
+    background-color: lightblue;
+}
+
+@keyframes spicy {
+    from {background-color: red;}
+    to {background-color: yellow;}
+}
+
